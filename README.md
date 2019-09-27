@@ -6,7 +6,7 @@ Visual Basic Projects From School
 - [x] Light Bulb
 - [x] Guessing Game
 - [x] Grading System
-- [x] Sudoku
+- [] Sudoku
 - [] Casino
 
 ## My Own Game
